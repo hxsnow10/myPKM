@@ -5,7 +5,7 @@ introduction
 ------------
 Aimming to offer a good proposal for human's Personal Knowledge Management. 
 
-I should give __Definition of PKM__ first in the following, and then design it, implement the design(implement PKM), and practice(use PKM to work).I don't think think things is so easy.We should iterate it.
+I should give __Definition of PKM__ first in the following, and then design it, implement the design(implement PKM), and practice(use PKM to work).I don't think things is so easy.We should iterate it.
 
 Tips:
 + PKM should implemented in many layers and aspects.
@@ -34,17 +34,8 @@ It's none.It depends.It's created personally.
 
 Just like a question, what is object of a solar system?
 
-4-15 我的观点发生了改变。倘若我们追求一种智能，但为何要建立在自身的高负担之上呢？
-生物上进化结果是，人只能察觉一部分的计算，虽然保留了对潜意识控制的通道，这种减负是一种对于“我”的自我保护。
-那么，如果我要去建立一种超智，现代的科技我觉得已经能在计算上取代人，而不用把人作为一个处理的中心节点。
-什么意思呢？就是我们控制计算机/机器人，去计算与掌握知识。这既是智能的更佳方案，也是对生物自我的救赎与解放之路。
-
-我会把工作慢慢转移到机器上，我设计智能，管理智能的发展与迭代，这是更好的PKM。
-生物自我上我想活得轻松。
-
 1. 现代人珣轨道局，小学-大学-博士-公司。。。    不一定多有人都能或者愿意选择这样的生活。生活有各种姿态.
 2. 人有人的特点，自己觉得好就行。全信息管理与简单的生活一定有优劣之分吗？其实对我们这种生物，在生物基础上要适中，要调度。
-
 
 refer to [phiolohy of world and us::meaning of life]()
 
@@ -64,3 +55,12 @@ My proposal here:
 the kernel work is [intelligence]().
 
 
+notes
+-------------
+4-15 我的观点发生了改变。倘若我们追求一种智能，但为何要建立在自身的高负担之上呢？
+生物上进化结果是，人只能察觉一部分的计算，虽然保留了对潜意识控制的通道，这种减负是一种对于“我”的自我保护。
+那么，如果我要去建立一种超智，现代的科技我觉得已经能在计算上取代人，而不用把人作为一个处理的中心节点。
+什么意思呢？就是我们控制计算机/机器人，去计算与掌握知识。这既是智能的更佳方案，也是对生物自我的救赎与解放之路。
+
+我会把工作慢慢转移到机器上，我设计智能，管理智能的发展与迭代，这是更好的PKM。
+生物自我上我想活得轻松。
