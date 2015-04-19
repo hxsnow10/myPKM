@@ -1,2 +1,14 @@
-git add/rm
-git push/pull
+所有文件都在3种状态
+1. modified
+2. staged
+3. commited
+
+一
+
+流程是先修改，然后暂存(add/rm)，然后提交(commit)，也许push.
+
+一些细节
+1. 如果rm了怎么办，git rm即可 
+需要把git再学一遍。
+
+
