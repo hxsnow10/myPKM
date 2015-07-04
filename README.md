@@ -1,34 +1,33 @@
 # myPKM
 Personal PKM proposal and solution.
 
+please refer to https://www.evernote.com/pub/hxsnow10/pkm for some files.
 introduction
 ------------
 Aimming to offer a good proposal for human's Personal Knowledge Management. 
 
-I should give __Definition of PKM__ first in the following, and then design it, implement the design(implement PKM), and practice(use PKM to work).I don't think things is so easy.We should iterate it.
+I should give __Definition of PKM__ firstly in the following, then __design and implement my freamwork solution__, and finally __practice in my example__.To be interated(迭代).
 
 Tips:
 + PKM should implemented in many layers and aspects.
-+ Contents is important as well as framework and tools.
-+ Tools work for needs(contents), they make needs solved better or saying knowledge represented better.
++ Contents is important as well as freamwork、tools、language form, because only concrete contents has meanings/s.
++ Freawork(Form) work for contents, they make knowledge representation solved better.
 + Everyone has its own answer for PKM.
 
-Firstly, it should be my own personal answer about,  PKM framework.I may give my practice as the example to use the framework. Then, I hope to  update this framework when researching ourselves and modern technology,  checkout some general character of all humans,and try to give PKM prosoal and solutions for all personals.
+Firstly, it should be my own personal answer about PKM framework and PKM praceticing.But I also hope to update this framework when researching ourselves and modern technology, which give PKM prosoal and solutions for all future humans, including considerations about complexities.
 
 Definition of PKM
 -----------------
-Humans,today,facing a enoumourous knowledge task to solve, have more knowledge about themselves and more tools from IT.So how should we redesign ourselves and tools to achieve the new integral.
+Humans,today,facing more data and more knowledge whereas more powerful computing machine like super computer and knowledge represetation and processing technoloObjectiongies like machine learning.These leads what we call artificial intelligence and super intelligence age, which mean knowledge intelligence objects has rapaidly shift from original humans to computing machines, no matter what's the relationship between humans and machines.And the strture or saying technology of knowledge representation and process , as the insense(本质) of intelligence, whether machematically or physical, will greatly changed.
 
-However, definition of knowledge should be first.
-+ Knowledge represents all the information one manage.
-+ Knowlesge equal all.
-+ Knowledge may be implemented in physcis or symbols.
+Engineering updates of modern intelligence technology mainly targets various knowledge system(knowledge base with computing engines).Many systems could be regareded as knowledge system, e.g. internets with search engines, wiki systems, various internet products, original human brain, human 文明 system.PKM is an really important aspects, beceuse it focues on how an intelligence object construes from down to top.In civilizeration's view,we're to rebuild civilizeration language and knowledge system(refer to ).Automate Research field(refer to) and Matrix knowledge system should be parts of it(refer to ).
 
+PKM, Personal Knowledge Management, as objects shift and strture change unstoppable, we're searching better solutions for Personal Knowledge Management.
 
-objection of PKM
--------------
-Objection/mesearement of PKM.
-
+Objection of PKM
+-----------------
+Objection/measurment of PKM including two aspects:
+1. meanings/values of PKM
 It is a difficult and easy question:No one definition.
 It's none.It depends.It's created personally.
 
@@ -38,6 +37,11 @@ Just like a question, what is object of a solar system?
 2. 人有人的特点，自己觉得好就行。全信息管理与简单的生活一定有优劣之分吗？其实对我们这种生物，在生物基础上要适中，要调度。
 
 refer to [phiolohy of world and us::meaning of life]()
+
+2. perfmance of PKM
+which is the really measurment in technology perspective.
+
+
 
 version 0.1
 ---------
