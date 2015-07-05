@@ -33,7 +33,7 @@ It's none.It depends.It's created personally.
 
 Just like a question, what is object of a solar system?
 
-1. 现代人珣轨道局，小学-大学-博士-公司。。。    不一定多有人都能或者愿意选择这样的生活。生活有各种姿态.
+1. 现代人循规蹈矩，小学-大学-博士-公司。。。    不一定多有人都能或者愿意选择这样的生活。生活有各种姿态.
 2. 人有人的特点，自己觉得好就行。全信息管理与简单的生活一定有优劣之分吗？其实对我们这种生物，在生物基础上要适中，要调度。
 
 refer to [phiolohy of world and us::meaning of life]()
